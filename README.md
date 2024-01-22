@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Scott Zhao</h1>
 <h3 align="center">CS BS @ UCR</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=recogn1z" alt="recogn1z" /></a> </p>
+
 
 - 🔭 I’m currently working on [ACM-RISHI](https://github.com/acm-ucr/rishi-website)
 
