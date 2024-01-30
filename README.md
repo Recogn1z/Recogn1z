@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=recogn1z&show_icons=true&locale=en&layout=compact" alt="recogn1z" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=recogn1z&show_icons=true&locale=en" alt="recogn1z" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=recogn1z&" alt="recogn1z" /></p>
