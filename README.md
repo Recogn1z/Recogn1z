@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [ACM-RISHI](https://github.com/acm-ucr/rishi-website)
 
-- 🌱 I’m currently learning **WEBSERVER**
+- 🌱 I’m currently learning **ARC CACHE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Recogn1z](https://github.com/Recogn1z)
 
-- 💬 Ask me about **C++,OS,NETWORK**
+- 💬 Ask me about **C++,OS,SQL**
 
 - 📫 How to reach me **zhaotiancheng4@gmail.com**
 
